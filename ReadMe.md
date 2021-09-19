@@ -4,7 +4,6 @@ This is a replica or parody of Apple's MacOS, based on Manjaro with a KDE Deskto
 ![Screenshot_20210919_022223](https://user-images.githubusercontent.com/36416420/133917895-2f30e6d4-a4c2-44f3-bb45-7e8213ba2257.png)
 #### **Wallpaper**: (Link) [->](https://user-images.githubusercontent.com/36416420/133918052-078a9337-b68e-4ea8-911e-50378becb9a2.jpg)
 
-
 <br>
 
 ### **Credit Required**
@@ -16,6 +15,10 @@ If anyone sees icons or content that they've created, just shoot me a message or
 I'll try to support customization plotters like Konsave, Plasma Customizer, or more. If you have a requested addition, or know how to, just make a pull request,
 
 <br>
+
+### ** Frequently Asked Questions**
+- **Q**: I tried to recreate this, but I keep having the problem where my window decorations are enlarged and I don't want to use Nouveau. What can I do?
+  - **A**: No problem. The reason that happens is because of a DPI mismatch on Nvidia's proprietary drivers. Nouveau doesn't have this problem. You can force the DPI, normally in your font / font rendering settings. I'm using **96**.
 
 Credits:
 Icon Sourcing: 
