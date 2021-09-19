@@ -50,6 +50,9 @@ Shell:
 - Zsh
 - P10k
 
+Window Switcher:
+- Parachute
+
 # Gallery:
 
 ![Screenshot_20210919_022245](https://user-images.githubusercontent.com/36416420/133917930-4f535dea-b722-44d3-95c4-d08f8138b702.png)
