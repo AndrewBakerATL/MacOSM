@@ -20,6 +20,8 @@ I'll try to support customization plotters like Konsave, Plasma Customizer, or m
 - **Q**: I tried to recreate this, but I keep having the problem where my window decorations are enlarged and I don't want to use Nouveau. What can I do?
   - **A**: No problem. The reason that happens is because of a DPI mismatch on Nvidia's proprietary drivers. Nouveau doesn't have this problem. You can force the DPI, normally in your font / font rendering settings. I'm using **96**.
 
+<br>
+
 Credits:
 Icon Sourcing: 
 - DeviantArt
