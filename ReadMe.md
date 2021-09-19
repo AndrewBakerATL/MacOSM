@@ -23,6 +23,8 @@ I'll try to support customization plotters like Konsave, Plasma Customizer, or m
   - **A**: Absolutely. You can use a various number of modules in the sidebar, just be aware that there seem to be two persistent justifiers in the panel, so getting it to actually show your module responsively may be another matter. You can also stack more than one and control the width.
 - **Q**: How did you add support for MacOS filetypes and icons?
   - **A**: You just need to install or build the library support and your system should adapt automatically, if it doesn't to begin with.
+- **Q**: How do you get the icon spacing in the system tray to be so even?
+  - **A**: You can either edit the QML file at ``/usr/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/main.qml`` or use this plasmoid: https://github.com/psifidotos/plasma-systray-latte-tweaks
 
 <br>
 
