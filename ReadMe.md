@@ -19,6 +19,8 @@ I'll try to support customization plotters like Konsave, Plasma Customizer, or m
 ### ** Frequently Asked Questions**
 - **Q**: I tried to recreate this, but I keep having the problem where my window decorations are enlarged and I don't want to use Nouveau. What can I do?
   - **A**: No problem. The reason that happens is because of a DPI mismatch on Nvidia's proprietary drivers. Nouveau doesn't have this problem. You can force the DPI, normally in your font / font rendering settings. I'm using **96**.
+- **Q**: I don't see the need for two datetime modules, having one in the topbar and one in the sidebar / panel. Can I change that?
+  - **A**: Absolutely. You can use a various number of modules in the sidebar, just be aware that there seem to be two persistent justifiers in the panel, so getting it to actually show your module responsively may be another matter. You can also stack more than one and control the width.
 
 <br>
 
