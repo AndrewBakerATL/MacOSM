@@ -35,6 +35,7 @@ KDE Plasmoids:
 - Event Calendar
 - PulseAudio Pavucontrol
 - Redshift
+- System Tray 2
 
 Fonts:
 - San Francisco
