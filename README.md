@@ -1,2 +1,0 @@
-# MacOSM
-MacOS Manjaro
