@@ -2,6 +2,7 @@
 This is a replica or parody of Apple's MacOS, based on Manjaro with a KDE Desktop Environment and front-end, using LightDM for user / session management, along with ICNS support (MacOS Icon Structure).
 #### **Version**: **MacOSM (v0.01)**
 ![Screenshot_20210919_022223](https://user-images.githubusercontent.com/36416420/133917895-2f30e6d4-a4c2-44f3-bb45-7e8213ba2257.png)
+#### **Wallpaper**: (Link) [->](https://user-images.githubusercontent.com/36416420/133918052-078a9337-b68e-4ea8-911e-50378becb9a2.jpg)
 
 
 <br>
